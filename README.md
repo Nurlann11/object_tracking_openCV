@@ -13,13 +13,12 @@ This project provides an implementation of object tracking using OpenCV. The scr
 
 ### Video Example
 
+Here is a video example:
 
 https://github.com/user-attachments/assets/a4f20be9-c28c-409d-8d4d-75c0800cbc26
 
 https://github.com/user-attachments/assets/c545bd4a-a7b9-40f0-a7af-6550e5a1e986
 
-
-Here is a video example:
 
 <video width="540" height="460" controls>
   <source src="race.mp4" type="video/mp4">
